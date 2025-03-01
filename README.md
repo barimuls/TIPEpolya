@@ -9,7 +9,7 @@ Je comprends pas encore tout, où vont les choses que j'installe, comment marche
 
 
 # TO DO : 
-  -Lire et comprendre la preuve du théorème, essayer de l'appliquer à des formes géométriques puis à des graphes  
-  -Lire et prendre quelques notes sur chacun des articles que j'ai mis en référence pour ne pas passer pour un nigaud  
-  -Comprendre le mécanisme qu'ils utilisent pour générer tous leurs arbres  
-  -Le coder en python bien.  
+  - Lire et comprendre la preuve du théorème, essayer de l'appliquer à des formes géométriques puis à des graphes  
+  - Lire et prendre quelques notes sur chacun des articles que j'ai mis en référence pour ne pas passer pour un nigaud  
+  - Comprendre le mécanisme qu'ils utilisent pour générer tous leurs arbres  
+  - Le coder en python bien.  
