@@ -30,3 +30,7 @@ Je vais essayer d'organiser en mode liste à faire dans un certain ordre, sachan
 - Faire un plan très détaillé de comment présenter mon exposé
 - Faire une présentation (en LaTeX toujours) de ce que je vais y raconter, avec tout un tas de jolis dessins
 - S'entraîner à l'oral pour faire cette présentation
+
+# Notes supplémentaires
+
+Je consulte, et il faudrait le rajouter dans ma biblio, [Classification Algorithms for Codes and Designs, de Petteri Kaski & Patric R. J. Ostergard (springer)]
