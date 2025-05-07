@@ -12,24 +12,28 @@ Je vais essayer d'organiser en mode liste à faire dans un certain ordre, sachan
 - Appliquer la formule de Pólya à différents cas de figures qui s'y prêtent
 - Appliquer ça à mon problème d'arbres
 - Faire une sorte de compte-rendu en LaTeX sur le sujet (commencer sur Overleaf c'est plus pratique, ou peut-être LyX)
+- Trouver un moyen de le présenter et de le vulgariser joliment
 
 
 ## Aspect informatique :
 
 - Lire les deux document (ou 3, je crois avoir trouvé une sorte de cours dessus ?)
 - Prendre des notes sur les documents (j'ai pas envie d'avoir à les relire)
-- Essayer de coder des petits trucs qui marchent à peu près
+- Réparer Visual Studio sur le mac je crois qu'il ne marche plus trop
+- Essayer de coder des petits trucs qui marchent à peu près : graphes sans cycles, sans boucles, triangles, réseaux de neurones
 - Voilà c'est à peu près tout ?
 
 
 ## Aspect présentation de la chose :
 
+- Faire une roadmap (basée sur ce présent document)
 - Finaliser les aspects informatiques et mathématiques de la chose
 - Réfléchir sur quelles familles de graphes aborder -> plutôt plusieurs qu'une seule mais comment sélectionner ?
 - Peaufiner le truc LaTeX que j'aurais écrit
 - Faire un plan très détaillé de comment présenter mon exposé
-- Faire une présentation (en LaTeX toujours) de ce que je vais y raconter, avec tout un tas de jolis dessins
+- Faire une présentation (en beamer) de ce que je vais y raconter, avec tout un tas de jolis dessins
 - S'entraîner à l'oral pour faire cette présentation
+- Caler le mot "transformation" partout dans la présentation
 
 # Notes supplémentaires
 
