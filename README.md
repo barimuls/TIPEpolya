@@ -3,13 +3,7 @@ Mon TIPE de spé, sur le comptage de graphes non isomorphes, avec le théorème 
 
 (J'utilise pour la première fois GitHub pour ranger ça parce que ça a l'air super fun et super pratique pour organiser un tel projet (et aussi ça me permet de commencer un peu à bosser donc c'est bien))  
 
-Je vais essayer de mettre ici à peu près tout ce que je fais sur ce projet, ie le code du programme que je projette d'écrire, un document LaTeX de ce que je comprends, et le powerpoint qu'il faut que je fasse.  
+J'écris quand j'ai tout fini et c'était sympa comme prjet même si j'aurais aimé le faire un peu mieux, j'ai l'impression de n'avoir rien foutu.
+J'ai pas update le github du projet pendant que je travaillais parce que j'avais vraiment pas le temps du tout, mais j'ai mis tous les produits finis pour que ça fasse un joli projet terminé :)
 
-Je comprends pas encore tout, où vont les choses que j'installe, comment marche le visualStudio du navigateur, mais je m'éclate (je sais pas si c'est bien comme endroit le readme pour écrire ses pensées comme j'aime à le faire, peut-être faire un nouveau document dédié ?
-
-
-# TO DO : 
-  - Lire et comprendre la preuve du théorème, essayer de l'appliquer à des formes géométriques puis à des graphes  
-  - Lire et prendre quelques notes sur chacun des articles que j'ai mis en référence pour ne pas passer pour un nigaud  
-  - Comprendre le mécanisme qu'ils utilisent pour générer tous leurs arbres  
-  - Le coder en python bien.  
+J'ai intégré Centrale Lyon avec ça et ça a l'air un peu sympa.
